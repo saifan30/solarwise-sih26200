@@ -221,24 +221,6 @@ All calculations in SolarWise are driven by an internal mathematical physics sim
 
 ---
 
-## 📸 Screenshots
-
-*(Replace the placeholder links below with actual screenshots of your running application)*
-
-| Dashboard Overview | Solar & Demand Forecast (Predict) |
-|---|---|
-| ![Dashboard Screenshot](https://placehold.co/600x350/f8fafc/0f172a?text=SolarWise+Dashboard+Overview) | ![Predict Screenshot](https://placehold.co/600x350/f8fafc/0f172a?text=Predict+Forecast+Module) |
-
-| Opportunity Windows (Optimize) | PV Health Sentinel (Detect) |
-|---|---|
-| ![Optimize Screenshot](https://placehold.co/600x350/f8fafc/0f172a?text=Opportunity+Windows+Optimization) | ![Detect Screenshot](https://placehold.co/600x350/f8fafc/0f172a?text=PV+Health+Sentinel+Detection) |
-
-| Renewable Analytics | String Array Matrix |
-|---|---|
-| ![Analytics Screenshot](https://placehold.co/600x350/f8fafc/0f172a?text=Renewable+Analytics+Dashboard) | ![String Matrix Screenshot](https://placehold.co/600x350/f8fafc/0f172a?text=Array+Diagnostic+Matrix) |
-
----
-
 ## 👥 Development Team
 
 - **Project:** SolarWise (SIH 2026 Prototype)
