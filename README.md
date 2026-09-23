@@ -228,5 +228,3 @@ All calculations in SolarWise are driven by an internal mathematical physics sim
 - **Submission Category:** Software — Problem Statement ID: SIH26200
 
 ---
-
-*Built with ❤️ for a cleaner, smarter, and more resilient clean energy grid.*
