@@ -1,0 +1,7 @@
+{
+  "name": "SolarWise - Renewable Energy Intelligence",
+  "description": "Predict solar generation, detect PV underperformance, and optimize flexible loads with intelligent clean-energy scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
